@@ -19,3 +19,17 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JesonWS54&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 8-Puzzle Solver 🧩  
+
+## Features  
+✅ Supports BFS, DFS, UCS, IDS  
+✅ Interactive UI using Pygame  
+✅ Auto-solve and step-by-step solving  
+
+## Installation  
+```bash
+git clone https://github.com/JesonWS54/AI_Personal.git
+cd AI_Personal
+python main.py
+
